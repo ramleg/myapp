@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">TuVieja</string>
+    <string name="app_name">PukekoApp</string>
     <string name="mensaje">Magnets!!!</string>
     <string name="button_send" translatable="false">Send</string>
     <string name="edit_message" translatable="false">Mete aca la cosa</string>
